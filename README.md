@@ -1,6 +1,6 @@
 **It's a great pleasure to introduce myself in front of you.**
 
-I’m Humayun Sheikh , I'm from Pakistan. Since last 1.5 years I’m working as web developer in Company **BW logics** as a **Front End Developer** & developed many website and apart from that I have been working as freelancer. .
+I’m Humayun Sheikh from Pakistan. Since last 1.5 years I’m working as web developer in Company **BW logics** as a **Front End Developer** & developed many website and apart from that I have been working as freelancer. .
 
 **My skills**.
  HTML5, CSS3,SCSS, Bootstrap, Jquery,Shopify and React JS.
